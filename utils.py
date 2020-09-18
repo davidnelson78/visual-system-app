@@ -1,7 +1,6 @@
 import dash_html_components as html
 import dash_core_components as dcc
 
-
 def Header(app):
     return html.Div([get_header(app), html.Br([]), get_menu()])
 
