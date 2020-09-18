@@ -7,7 +7,6 @@ This is an interactive, multi-page report which displays a variety of tables, bu
 - [Dash](https://dash.plot.ly/) - Main server and interactive components
 - [Plotly Python](https://plot.ly/python/) - Used to create the interactive plots
 
-
 ### Running the app locally
 
 - First create a virtual environment with conda or venv inside a temp folder, then activate it.
@@ -15,5 +14,3 @@ This is an interactive, multi-page report which displays a variety of tables, bu
 - Clone the git repo, then install the requirements with pip
 
 - Run the app
-
-

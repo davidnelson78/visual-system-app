@@ -8,6 +8,7 @@ import pandas as pd
 import pathlib
 
 # get relative data folder
+
 PATH = pathlib.Path(__file__).parent
 DATA_PATH = PATH.joinpath("../data").resolve()
 
@@ -27,6 +28,28 @@ def create_layout(app):
                     # Row 3
                     html.Div(
                         [
+                            dcc.Upload(
+                                id='upload-data',
+                                children=html.Div([
+                                    'Drag and Drop or ',
+                                    html.A('Select Files')
+                                ]),
+                                style={
+                                    'width': '100%',
+                                    'height': '60px',
+                                    'lineHeight': '60px',
+                                    'borderWidth': '1px',
+                                    'borderStyle': 'dashed',
+                                    'borderRadius': '5px',
+                                    'textAlign': 'center',
+                                    'bordermargin': '0px'
+                                },
+                                # Allow multiple files to be uploaded
+                                multiple=True
+                            ),
+                            html.Div(action='save_file.py'),
+
+                            html.Br([]),
                             html.Div(
                                 [
                                     html.H5("Compatability Score"),
