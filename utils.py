@@ -28,7 +28,7 @@ def get_menu():
             ),
             dcc.Link(
                 "OS / Antivirus",
-                href="/visual-system-app/osAntivirus",
+                href="/visual-system-app/os_antivirus",
                 className="tab",
             ),
             dcc.Link(
