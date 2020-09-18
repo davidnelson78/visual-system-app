@@ -187,4 +187,9 @@ def parse_csv(csv_filename):
 #    print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
 #    print('Known Anomilies')
 #    print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~')
+<<<<<<< HEAD
 #    print_dictionary(parsed_dict.types['anomaly'].types['outstanding_anomolies'], 'has known anomaly')
+=======
+#    print_dictionary(parsed_dict.types['anomaly'].types['outstanding_anomolies'], 'has known anomaly')
+
+>>>>>>> 8112511a7f5c7985a74fb320e0118e1f36bd983a
