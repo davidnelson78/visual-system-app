@@ -5,11 +5,11 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 from pages import (
     overview,
-    pricePerformance,
-    portfolioManagement,
-    feesMins,
-    distributions,
-    newsReviews,
+    osAntivirus,
+    features,
+    firmware,
+    modules,
+    requirements,
 )
 
 app = dash.Dash(
@@ -25,24 +25,24 @@ app.layout = html.Div(
 # Update page
 @app.callback(Output("page-content", "children"), [Input("url", "pathname")])
 def display_page(pathname):
-    if pathname == "/dash-financial-report/price-performance":
-        return pricePerformance.create_layout(app)
-    elif pathname == "/dash-financial-report/portfolio-management":
-        return portfolioManagement.create_layout(app)
-    elif pathname == "/dash-financial-report/fees":
-        return feesMins.create_layout(app)
-    elif pathname == "/dash-financial-report/distributions":
-        return distributions.create_layout(app)
-    elif pathname == "/dash-financial-report/news-and-reviews":
-        return newsReviews.create_layout(app)
-    elif pathname == "/dash-financial-report/full-view":
+    if pathname == "/visual-system-app/osAntivirus":
+        return osAntivirus.create_layout(app)
+    elif pathname == "/visual-system-app/features":
+        return features.create_layout(app)
+    elif pathname == "/visual-system-app/firmware":
+        return firmware.create_layout(app)
+    elif pathname == "/visual-system-app/modules":
+        return modules.create_layout(app)
+    elif pathname == "/visual-system-app/requirements":
+        return requirements.create_layout(app)
+    elif pathname == "/visual-system-app/full-view":
         return (
             overview.create_layout(app),
-            pricePerformance.create_layout(app),
-            portfolioManagement.create_layout(app),
-            feesMins.create_layout(app),
-            distributions.create_layout(app),
-            newsReviews.create_layout(app),
+            osAntivirus.create_layout(app),
+            features.create_layout(app),
+            firmware.create_layout(app),
+            modules.create_layout(app),
+            requirements.create_layout(app),
         )
     else:
         return overview.create_layout(app)

@@ -10,37 +10,8 @@ def get_header(app):
     header = html.Div(
         [
             html.Div(
-                [
-                    html.Img(
-                        src=app.get_asset_url("dash-financial-logo.png"),
-                        className="logo",
-                    ),
-                    html.A(
-                        html.Button("Learn More", id="learn-more-button"),
-                        href="https://plot.ly/dash/pricing/",
-                    ),
-                ],
-                className="row",
-            ),
-            html.Div(
-                [
-                    html.Div(
-                        [html.H5("Calibre Financial Index Fund Investor Shares")],
-                        className="seven columns main-title",
-                    ),
-                    html.Div(
-                        [
-                            dcc.Link(
-                                "Full View",
-                                href="/dash-financial-report/full-view",
-                                className="full-view-link",
-                            )
-                        ],
-                        className="five columns",
-                    ),
-                ],
-                className="twelve columns",
-                style={"padding-left": "0"},
+                    [html.H5("Rockwell Automation Upgrade Compatability Report")],
+                    className="twelve columns main-title",
             ),
         ],
         className="row",
@@ -53,30 +24,32 @@ def get_menu():
         [
             dcc.Link(
                 "Overview",
-                href="/dash-financial-report/overview",
+                href="/visual-system-app/overview",
                 className="tab first",
             ),
             dcc.Link(
-                "Price Performance",
-                href="/dash-financial-report/price-performance",
+                "OS / Antivirus",
+                href="/visual-system-app/osAntivirus",
                 className="tab",
             ),
             dcc.Link(
-                "Portfolio & Management",
-                href="/dash-financial-report/portfolio-management",
+                "Features",
+                href="/visual-system-app/features",
                 className="tab",
             ),
             dcc.Link(
-                "Fees & Minimums", href="/dash-financial-report/fees", className="tab"
-            ),
-            dcc.Link(
-                "Distributions",
-                href="/dash-financial-report/distributions",
+                "Firmware",
+                href="/visual-system-app/firmware",
                 className="tab",
             ),
             dcc.Link(
-                "News & Reviews",
-                href="/dash-financial-report/news-and-reviews",
+                "Modules",
+                href="/visual-system-app/modules",
+                className="tab",
+            ),
+            dcc.Link(
+                "Requirements",
+                href="/visual-system-app/requirements",
                 className="tab",
             ),
         ],
