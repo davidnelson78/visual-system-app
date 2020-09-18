@@ -29,19 +29,13 @@ def create_layout(app):
                         [
                             html.Div(
                                 [
-                                    html.H5("Product Summary"),
+                                    html.H5("Compatability Score"),
+                                    html.H5("5.1"),
+
                                     html.Br([]),
                                     html.P(
                                         "\
-                                    As the industry’s first index fund for individual investors, \
-                                    the Calibre Index Fund is a low-cost way to gain diversified exposure \
-                                    to the U.S. equity market. The fund offers exposure to 500 of the \
-                                    largest U.S. companies, which span many different industries and \
-                                    account for about three-fourths of the U.S. stock market’s value. \
-                                    The key risk for the fund is the volatility that comes with its full \
-                                    exposure to the stock market. Because the Calibre Index Fund is broadly \
-                                    diversified within the large-capitalization market, it may be \
-                                    considered a core equity holding in a portfolio.",
+                                    relevant info here",
                                         style={"color": "#ffffff"},
                                         className="row",
                                     ),
@@ -57,7 +51,7 @@ def create_layout(app):
                             html.Div(
                                 [
                                     html.H6(
-                                        ["Fund Facts"], className="subtitle padded"
+                                        ["Overview 1"], className="subtitle padded"
                                     ),
                                     html.Table(make_dash_table(df_fund_facts)),
                                 ],
@@ -66,7 +60,7 @@ def create_layout(app):
                             html.Div(
                                 [
                                     html.H6(
-                                        "Average annual performance",
+                                        "Overview 2",
                                         className="subtitle padded",
                                     ),
                                     dcc.Graph(
@@ -175,7 +169,7 @@ def create_layout(app):
                             html.Div(
                                 [
                                     html.H6(
-                                        "Hypothetical growth of $10,000",
+                                        "Overview 3",
                                         className="subtitle padded",
                                     ),
                                     dcc.Graph(
@@ -268,22 +262,10 @@ def create_layout(app):
                             html.Div(
                                 [
                                     html.H6(
-                                        "Price & Performance (%)",
+                                        "Overview 4",
                                         className="subtitle padded",
                                     ),
                                     html.Table(make_dash_table(df_price_perf)),
-                                ],
-                                className="six columns",
-                            ),
-                            html.Div(
-                                [
-                                    html.H6(
-                                        "Risk Potential", className="subtitle padded"
-                                    ),
-                                    html.Img(
-                                        src=app.get_asset_url("risk_reward.png"),
-                                        className="risk-reward",
-                                    ),
                                 ],
                                 className="six columns",
                             ),

@@ -24,29 +24,9 @@ def create_layout(app):
                         [
                             html.Div(
                                 [
-                                    html.H6(
-                                        ["Distributions"], className="subtitle padded"
-                                    ),
-                                    html.P(
-                                        [
-                                            "Distributions for this fund are scheduled quaterly"
-                                        ],
-                                        style={"color": "#7a7a7a"},
-                                    ),
-                                ],
-                                className="twelve columns",
-                            )
-                        ],
-                        className="row ",
-                    ),
-                    # Row 2
-                    html.Div(
-                        [
-                            html.Div(
-                                [
                                     html.Br([]),
                                     html.H6(
-                                        ["Dividend and capital gains distributions"],
+                                        ["Modules 1"],
                                         className="subtitle tiny-header padded",
                                     ),
                                     html.Div(
@@ -64,13 +44,13 @@ def create_layout(app):
                         ],
                         className="row ",
                     ),
-                    # Row 3
+                    # Row 2
                     html.Div(
                         [
                             html.Div(
                                 [
                                     html.H6(
-                                        ["Realized/unrealized gains as of 01/31/2018"],
+                                        ["Modules 2"],
                                         className="subtitle tiny-header padded",
                                     )
                                 ],
@@ -79,7 +59,7 @@ def create_layout(app):
                         ],
                         className="row ",
                     ),
-                    # Row 4
+                    # Row 3
                     html.Div(
                         [
                             html.Div(

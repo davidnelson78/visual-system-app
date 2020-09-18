@@ -10,7 +10,7 @@ def get_header(app):
     header = html.Div(
         [
             html.Div(
-                    [html.H5("Rockwell Automation Upgrade Compatability Report")],
+                    [html.H5("Rockwell Automation - System Upgrade Compatability Report")],
                     className="twelve columns main-title",
             ),
         ],

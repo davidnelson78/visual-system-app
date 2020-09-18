@@ -25,7 +25,7 @@ def create_layout(app):
                     html.Div(
                         [
                             html.Div(
-                                [html.H6(["Expenses"], className="subtitle padded")],
+                                [html.H6(["Firmware 1"], className="subtitle padded")],
                                 className="twelve columns",
                             )
                         ],
@@ -38,7 +38,8 @@ def create_layout(app):
                                 [
                                     html.Strong(),
                                     html.Table(make_dash_table(df_expenses)),
-                                    html.H6(["Minimums"], className="subtitle padded"),
+                                    html.H6(["Firmware 2"],
+                                            className="subtitle padded"),
                                     html.Table(make_dash_table(df_minimums)),
                                 ],
                                 className="six columns",
@@ -47,7 +48,7 @@ def create_layout(app):
                                 [
                                     html.Br([]),
                                     html.Strong(
-                                        "Fees on $10,000 invested over 10 years",
+                                        "Bar Graph",
                                         style={"color": "#3a3a3a"},
                                     ),
                                     dcc.Graph(
@@ -166,7 +167,7 @@ def create_layout(app):
                         [
                             html.Div(
                                 [
-                                    html.H6(["Fees"], className="subtitle"),
+                                    html.H6(["Firmware 3"], className="subtitle"),
                                     html.Br([]),
                                     html.Div(
                                         [
