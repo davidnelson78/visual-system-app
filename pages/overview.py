@@ -13,8 +13,8 @@ PATH = pathlib.Path(__file__).parent
 DATA_PATH = PATH.joinpath("../data").resolve()
 
 
-df_fund_facts = pd.read_csv(DATA_PATH.joinpath("df_fund_facts.csv"))
-df_price_perf = pd.read_csv(DATA_PATH.joinpath("df_price_perf.csv"))
+export_simple_system = pd.read_csv(DATA_PATH.joinpath("24toCode_PCDC_Export_Simple_System.csv"))
+migration_simple_system = pd.read_csv(DATA_PATH.joinpath("24toCode_PCDC_Migration_HW_Update_Simple_System.csv"))
 
 
 def create_layout(app):
@@ -47,7 +47,7 @@ def create_layout(app):
                                 # Allow multiple files to be uploaded
                                 multiple=True
                             ),
-                            html.Div(action='save_file.py'),
+                            html.Div(id='output-data-upload'),
 
                             html.Br([]),
                             html.Div(
@@ -76,7 +76,7 @@ def create_layout(app):
                                     html.H6(
                                         ["Overview 1"], className="subtitle padded"
                                     ),
-                                    html.Table(make_dash_table(df_fund_facts)),
+                                    #html.Table(make_dash_table(export_simple_system)),
                                 ],
                                 className="six columns",
                             ),
@@ -288,7 +288,7 @@ def create_layout(app):
                                         "Overview 4",
                                         className="subtitle padded",
                                     ),
-                                    html.Table(make_dash_table(df_price_perf)),
+                                    #html.Table(make_dash_table(migration_simple_system)),
                                 ],
                                 className="six columns",
                             ),

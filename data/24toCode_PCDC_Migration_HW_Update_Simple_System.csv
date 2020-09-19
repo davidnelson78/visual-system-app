@@ -1,0 +1,502 @@
+,,1756-L83ES,1756-OF8I,1756-OB32,1756-OB16E,1756-OB16D,1756-IF8I,1756-IB32,1756-IB16D,1756-IB16,1756-EN2TR,Studio 5000 Logix Designer,Studio 5000 View Designer,PanelView 5510
+,,series B,series A,series A,series A,series A,series A,series B,series A,series A,series C,,,series A
+,,32.013,3.012,3.003,3.004,3.003,2.013,3.006,3.004,3.004,11.002 (Signed),32.03.01,6.01.00,6.001
+Lifecycle,,Active,Active,Active,Active,Active,Active,Active,Active,Active,Active,Multiple Lifecycles Found,Multiple Lifecycles Found,Multiple Lifecycles Found
+Compatibility,1756-L83ES (series B) 32.013,,,,,,,,,,,,,
+Compatibility,1756-OF8I (series A) 3.012,,,,,,,,,,,Compatible,,
+Compatibility,1756-OB32 (series A) 3.003,,,,,,,,,,,Compatible,,
+Compatibility,1756-OB16E (series A) 3.004,,,,,,,,,,,Compatible,,
+Compatibility,1756-OB16D (series A) 3.003,,,,,,,,,,,Compatible,,
+Compatibility,1756-IF8I (series A) 2.013,,,,,,,,,,,Compatible,,
+Compatibility,1756-IB32 (series B) 3.006,,,,,,,,,,,Compatible,,
+Compatibility,1756-IB16D (series A) 3.004,,,,,,,,,,,Compatible,,
+Compatibility,1756-IB16 (series A) 3.004,,,,,,,,,,,Compatible,,
+Compatibility,1756-EN2TR (series C) 11.002 (Signed),,,,,,,,,,,Compatible,Compatible,
+Compatibility,Studio 5000 Logix Designer 32.03.01,,Compatible,Compatible,Compatible,Compatible,Compatible,Compatible,Compatible,Compatible,Compatible,,Compatible,
+Compatibility,Studio 5000 View Designer 6.01.00,,,,,,,,,,Compatible,Compatible,,Compatible
+Compatibility,PanelView 5510 (series A) 6.001,,,,,,,,,,,,Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.10.00 RSLE 5.10.00 (CPR9),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.10.01 RSLE 5.10.01 (CPR9 SR1),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,"FTSP 2.10.02 RSLE 5.20.00, 5.21.00 (CPR9 SR2)",,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.30.00 RSLE 5.30.00 (CPR9 SR3),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.40.00 RSLE 5.40.00 (CPR9 SR4),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.50.00 RSLE 5.50.00 (CPR9 SR5),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.51.00 RSLE 5.51.00 (CPR 9 SR5.1),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.60.00 RSLE 5.60.00 (CPR 9 SR6),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.61.00 RSLE 5.61.00 (CPR 9 SR6.1),,,,,,,,,,,Not Compatible,,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.70.00 RSLE 5.70.00 (CPR9 SR7),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.71.00 RSLE 5.71.00 (CPR9 SR7.1),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.73.00 RSLE 5.73.00 (CPR9 SR7.3),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.74.00 RSLE 5.74.00 (CPR9 SR7.4),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.80.00 RSLE 5.80.00 (CPR9 SR 8),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.81.00 RSLE 5.81.00 (CPR9 SR 8.1),,,,,,,,,,,Not Compatible,Not Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 2.90.00 RSLE 5.90.00 (CPR9 SR9),,,,,,,,,,,Compatible,Compatible,
+Rockwell Services - FactoryTalk Services Platform with FactoryTalk Linx,FTSP 3.00.00 FT Linx 6.00.00 (CPR 9 SR 10),,,,,,,,,,,Compatible,,
+Operating Systems - General,Linux,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,No known issues or dependencies,No known issues or dependencies
+Operating Systems - General,Windows 2000,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,Not Compatible,No known issues or dependencies
+Operating Systems - General,Windows NT Workstation 4.0 (NTFS),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,Not Compatible,No known issues or dependencies
+Operating Systems - Windows 10,"Windows 10 Enterprise, 32-bit, Version 1511",No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 10,"Windows 10 Enterprise, 32-bit, Version 1607",No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 10,"Windows 10 Enterprise, 64-bit, Version 1511",No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 10,"Windows 10 Enterprise, 64-bit, Version 1607",No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,Compatible,No known issues or dependencies
+Operating Systems - Windows 10,"Windows 10 Enterprise, 64-bit, Version 1703",No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,Compatible,No known issues or dependencies
+Operating Systems - Windows 10,"Windows 10 Professional, 32-bit, Version 1511",No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 10,"Windows 10 Professional, 32-bit, Version 1607",No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 10,"Windows 10 Professional, 64-bit, Version 1511",No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 10,"Windows 10 Professional, 64-bit, Version 1607",No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,Compatible,No known issues or dependencies
+Operating Systems - Windows 10,"Windows 10 Professional, 64-bit, Version 1703",No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,Compatible,No known issues or dependencies
+Operating Systems - Windows 2003,Windows 2003 Standard (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,Not Compatible,No known issues or dependencies
+Operating Systems - Windows 2003,Windows 2003 Standard SP1 (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,Not Compatible,No known issues or dependencies
+Operating Systems - Windows 2003,Windows 2003 Standard SP2 (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,Not Compatible,No known issues or dependencies
+Operating Systems - Windows 2003 R2,Windows 2003 R2 Standard (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,Not Compatible,No known issues or dependencies
+Operating Systems - Windows 2003 R2,Windows 2003 R2 Standard SP2 (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 2003 R2,Windows 2003 R2 Standard SP2 (64-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 2003 R2,Windows Server 2003 Standard R2 SP1 [32-bit],No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 2008,Windows Server 2008 Standard (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,Not Compatible,No known issues or dependencies
+Operating Systems - Windows 2008,Windows Server 2008 Standard SP1 (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 2008,Windows Server 2008 Standard SP1 [64-bit],No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 2008,Windows Server 2008 Standard SP2 (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 2008,Windows Server 2008 Standard SP2 (64-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 2008 R2,Windows Server 2008 R2 Enterprise SP1,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 2008 R2,Windows Server 2008 R2 Standard ,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 2008 R2,Windows Server 2008 R2 Standard SP1,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,Compatible,No known issues or dependencies
+Operating Systems - Windows 2012,Windows Server 2012 Datacenter,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 2012,Windows Server 2012 Standard ,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,Compatible,No known issues or dependencies
+Operating Systems - Windows 2012 R2,Windows Server 2012 R2 Datacenter,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 2012 R2,Windows Server 2012 R2 Standard,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,Compatible,No known issues or dependencies
+Operating Systems - Windows 2016,Windows Server 2016 Standard,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Enterprise SP1 32-bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Enterprise SP1 64-bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Home Premium (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Home Premium (64-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Home Premium SP1 32-bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,Compatible,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Home Premium SP1 64-bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Professional (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Professional (64-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Professional SP1 (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Professional SP1 (64-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,Compatible,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Ultimate SP1 32-bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 7,Windows 7 Ultimate SP1 64-bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 8,Windows 8 (home) 32-Bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 8,Windows 8 (home) 64-Bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 8,Windows 8 Enterprise 32-Bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 8,Windows 8 Enterprise 64-Bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 8,Windows 8 Professional 32-Bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 8,Windows 8 Professional 64-Bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,Compatible,No known issues or dependencies
+Operating Systems - Windows 8,Windows 8.1 Enterprise 32-Bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 8,Windows 8.1 Enterprise 64-Bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 8,Windows 8.1 Professional 32-Bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies
+Operating Systems - Windows 8,Windows 8.1 Professional 64-Bit,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Compatible,Compatible,No known issues or dependencies
+Operating Systems - Windows XP,Windows XP Pro (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,Not Compatible,No known issues or dependencies
+Operating Systems - Windows XP,Windows XP Pro SP1 (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,Not Compatible,No known issues or dependencies
+Operating Systems - Windows XP,Windows XP Pro SP2 (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,Not Compatible,No known issues or dependencies
+Operating Systems - Windows XP,Windows XP Pro SP3 (32-bit),No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,No known issues or dependencies,Not Compatible,Not Compatible,No known issues or dependencies
+Antivirus Software,McAfee (KB 67054),,,,,,,,,,,May be Compatible,May be Compatible,
+Antivirus Software,Symantec Endpoint Protection (SEP)  (KB 64182),,,,,,,,,,,May be Compatible,May be Compatible,
+Features - General, Redundant Output Functionality,,Compatible,,,,,,,,,,,
+Features - General,CIP Energy Object-backed Tags,,,,,,,,,,,,,
+Features - General,Controller Message to Self,,,,,,,,,,,,,
+Features - General,Emulation Mode,,Compatible,,,,Compatible,,,,,,,
+Features - General,Enhanced Diagnostics on Controller Webpages,,,,,,,,,,,,,
+Features - General,EtherNet/IP Node Guidelines for ControlLogix 5580 Controllers,,,,,,,,,,,,,
+Features - General,Extended Tag Properties,,,,,,,,,,,,Compatible,
+Features - General,Extreme Environment ,,,,,,,,,,Not Compatible,,,
+Features - General,Functional Safety,,Compatible,,,,Compatible,,,,,,,
+Features - General,Improved Controller Capacity Calculation,,,,,,,,,,,,,
+Features - General,Improved Messaging Performance,,,,,,,,,,Compatible,,,
+Features - General,Improved Product Resiliency,,,,,,,,,,,,,
+Features - General,Improved Product Resiliency for I/O Modules,,,Compatible,Compatible,Compatible,,Compatible,Compatible,Compatible,,,,
+Features - General,Instruction-based Alarm Support,,,,,,,,,,,,,
+Features - General,Integrated System Install,,,,,,,,,,,,Compatible,
+Features - General,Launch of Explicit Protected Mode,,,,,,,,,,Compatible,,,
+Features - General,New Firmware File Format,,Compatible,,,,Compatible,,,,,,,
+Features - General,New Hardware Preservation Fault,,,,,,,,,,,,,
+Features - General,"Online Help, Instruction Context Sensitive",,,,,,,,,,,,Compatible,
+Features - General,Product Features Overview of Studio 5000 View Designer 2.02,,,,,,,,,,,,Compatible,
+Features - General,Product Resiliency Improvement,,,,,,,,,,Compatible,,,
+Features - General,Reduced Device Configuration Time,,,,,,,,,,,,,
+Features - General,Rename Tags On Scan,,,,,,,,,,,,,
+Features - General,Runtime and Online Addition of Modules,,Compatible,Compatible,Compatible,Compatible,Compatible,Compatible,Compatible,Compatible,Compatible,,,
+Features - General,String Literals,,,,,,,,,,,,,
+Features - General,Support for PanelView 5000 Button Control,,,,,,,,,,,,,
+Features - General,System Features for PanelView 5000 Firmware Revision 5.001,,,,,,,,,,,,,Compatible
+Features - General,System Features for PanelView 5000 Firmware Revision 6.001,,,,,,,,,,,,,Compatible
+Features - General,System features for Studio 5000 Logix Designer version 32.01,,,,,,,,,,,Compatible,,
+Features - General,"System features for Studio 5000 Logix Designer, version 32.02.00",,,,,,,,,,,Compatible,,
+Features - General,"System features for Studio 5000 Logix Designer, version 32.03.00",,,,,,,,,,,Compatible,,
+Features - General,System features for Studio 5000 View Designer version 4.01,,,,,,,,,,,,Compatible,
+Features - General,System features for Studio 5000 View Designer version 5.01,,,,,,,,,,,,Compatible,
+Features - General,System features for Studio 5000 View Designer version 6.01,,,,,,,,,,,,Compatible,
+Features - General,System features for version 32.02,,,,,,,,,,,Compatible,,
+Features - General,System Features New features in this release for Studio 5000 Logix Designer version 29.00,,,,,,,,,,,,,
+Features - General,System Install,,,,,,,,,,,,Compatible,
+Features - General,Tag-based Alarms,,,,,,,,,,,,,
+Features - General,USB Network Access Port,,,,,,,,,,Compatible,,,
+Features - General,Windows 8 support,,,,,,,,,,,,Compatible,
+Features - Add On Instructions,Access to Module Object,,,,,,,,,,,Compatible,,
+Features - Add On Instructions,"Add-On Instructions, Attributes",,,,,,,,,,,Compatible,,
+Features - Add On Instructions,"Add-On Instructions, False Execution",,,,,,,,,,,Compatible,,
+Features - Add On Instructions,"Add-On Instructions, High-Integrity ",,,,,,,,,,,Compatible,,
+Features - Add On Instructions,"Add-On Instructions, Improved False Execution Time",,,,,,,,,,,Compatible,,
+Features - Add On Instructions,"Add-On Instructions, Safety ",,,,,,,,,,,Compatible,,
+Features - Add On Instructions,"Add-On Instructions, User Defined",,,,,,,,,,,Compatible,,
+Features - Alarms and Events,Alarm Shelving support for Logix device-based Alarms,,,,,,,,,,,May be Compatible,May be Compatible,
+Features - Alarms and Events,ALMA and ALMD Instructions,,,,,,,,,,,Compatible,Compatible,
+Features - Alarms and Events,FactoryTalk Alarms and Events Features,,,,,,,,,,,Compatible,May be Compatible,
+Features - Alarms and Events,Full ISA 18.2 Alarm State Standard Adoption,,,,,,,,,,,May be Compatible,May be Compatible,
+Features - Alarms and Events,Logix Tag-based Alarms,,,,,,,,,,,Compatible,,
+Features - Communications EtherNetIP Network,Can Close TCP Connections Without Affecting CIP Connections,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Digitally Signed Firmware Option for Additional Security,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Embedded Switch Technology,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Enhanced Communication Capacity Calculation,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Enhanced Fault Recovery (00103681),,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Enhanced Motion Performance,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Enhanced ODVA Compliance (00104806),,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Enhanced Web Server Security,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Expanded Socket Connections Support,,,,,,,,,,,Compatible,,
+Features - Communications EtherNetIP Network,Improved Motion Performance,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Optimized for L7x,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Option to Unicast Producer and Consumer Tags on EtherNetIP,,,,,,,,,,,Compatible,,
+Features - Communications EtherNetIP Network,QuickConnect,,,,,,,,,,,Compatible,,
+Features - Communications EtherNetIP Network,Rack Unicast IO Connections,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Support for 1715 Redundant IO Systems,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Support for Backplane Double Data Rate Communication,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Support for CIP Sync,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Support for Default Gateway Address for Devices with IP Address Switches,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Support for Sockets and Increased Packet Size,,,,,,,,,,Compatible,,,
+Features - Communications EtherNetIP Network,Unicast Produce/Consume Safety ,,,,,,,,,,,Compatible,,
+Features - Communications EtherNetIP Network,Unicast Produce/Consume Safety I/O,,,,,,,,,,,Compatible,,
+Features - Communications EtherNetIP Network,Unicast Produce/Consume Standard,,,,,,,,,,,Compatible,,
+Features - Communications EtherNetIP Network,Unicast Produce/Consume Standard I/O,,,,,,,,,,Compatible,Compatible,,
+Features - Communications EtherNetIP Network,Updated EDS Files,,,,,,,,,,Compatible,,,
+Features - Communications General,CIP Sync Time Coordination,,,,,,,,,,Compatible,Compatible,,
+Features - Communications General,Class 0 Messaging (Safety),,,,,,,,,,Compatible,,,
+Features - Communications General,Class 1 Messaging (I/O),,,,,,,,,,Compatible,,,
+Features - Communications General,Class 3 Messaging (MSG),,,,,,,,,,Compatible,,,
+Features - Communications General,"Communication Slot, Restricted ",,,,,,,,,,,Compatible,,
+Features - Communications General,DF1 Radio Modem Broadcast Support,,,,,,,,,,,Compatible,,
+Features - Communications General,DF1 Radio Modem Protocol Support,,,,,,,,,,,Compatible,,
+Features - Communications General,Produce/Consume Tag Structures Status,,,,,,,,,,,Compatible,,
+Features - Communications General,RPI Limit Setting for Produce/Consume,,,,,,,,,,,Compatible,,
+Features - FactoryTalk Services,FactoryTalk Alarms and Events,,,,,,,,,,,Compatible,May be Compatible,
+Features - FactoryTalk Services,FactoryTalk Alarms and Events Redundancy,,,,,,,,,,,Compatible,Not Compatible,
+Features - FactoryTalk Services,FactoryTalk AssetCentre and RSMACC Archive Integration,,,,,,,,,,,Compatible,Not Compatible,
+Features - Firmware Management,Digitally Signed ,,,,,,,,,,Compatible,,,
+Features - Firmware Management,Logix5000 Firmware Supervisor,,,,,,,,,,,Compatible,,
+Features - Import Export,CSV Import-Export of FBD and SFC Text Boxes,,,,,,,,,,,Compatible,,
+Features - Import Export,Decorated Data for Import/Export in XML Format,,,,,,,,,,,Compatible,,
+Features - Import Export,Full Project Import/Export in XML Format,,,,,,,,,,,Compatible,,
+Features - Import Export,Program and Routine Partial Import/Export,,,,,,,,,,,Compatible,,
+Features - Import Export,Runtime Partial Import,,,,,,,,,,,Compatible,,
+Features - Integrated Motion On EtherNetIP,CIP Motion Using EtherNet/IP Networks,,,,,,,,,,Compatible,Compatible,,
+Features - Integrated Motion On EtherNetIP,"CIP Motion, Up to 128 Axes",,,,,,,,,,Not Compatible,,,
+Features - Integrated Motion On EtherNetIP,"CIP Motion, Up to 8 Axes",,,,,,,,,,Compatible,,,
+Features - Integrated Motion On EtherNetIP,Kinetix 5500 CIP-Motion Servo Drives,,,,,,,,,,,Compatible,,
+Features - Integrated Motion On EtherNetIP,Kinetix 5500 CIP-Safety Drives Supported,,,,,,,,,,,Compatible,,
+Features - Integrated Motion On EtherNetIP,Load Observer CIP Motion,,,,,,,,,,,Compatible,,
+Features - Integrated Motion On EtherNetIP,Motor Test and Commutation Angle Test,,,,,,,,,,,Compatible,,
+Features - Integrated Motion On EtherNetIP,PowerFlex Support,,,,,,,,,,,Compatible,,
+Features - Integrated Motion On EtherNetIP,Third Party Motor Support,,,,,,,,,,,Compatible,,
+Features - Ladder Logic,Enhancement to the Ladder Editor,,,,,,,,,,,Compatible,,
+Features - Motion Analog,"Home to Torque (Kinetix 2000, 6000, and 7000)",,,,,,,,,,,Compatible,,
+Features - Motion Coordinated,Active and Pending Motion,,,,,,,,,,,Compatible,,
+Features - Motion General,Articulated Dependent Transform End Effecter Offsets,,,,,,,,,,,Compatible,,
+Features - Motion General,Automatic Device Configuration for Drives (ADC),,,,,,,,,,,Compatible,,
+Features - Motion General,Drive Multiplexing Provides Support for Multiple Coarse Update Rates,,,,,,,,,,,Compatible,,
+Features - Motion General,Interpolated Actual Position Acceleration Compensation,,,,,,,,,,,Compatible,,
+Features - Motion General,Kinematic Geometries,,,,,,,,,,,Compatible,,
+Features - Motion General,Kinematic Transformations Instructions Added,,,,,,,,,,,Compatible,,
+Features - Motion General,Kinetix 7000 Drive Analog Input Configuration,,,,,,,,,,,Compatible,,
+Features - Motion General,Load Observer,,,,,,,,,,,Compatible,,
+Features - Motion General,Master Driven Speed Control (MDSC),,,,,,,,,,,Compatible,,
+Features - Motion General,MCD and MCCD Motion Instructions Enhancements,,,,,,,,,,,Compatible,,
+Features - Motion General,Online Changes in Output CAM Editor,,,,,,,,,,,Compatible,,
+Features - Motion General,Positive-Negative Rotary Moves for MAM Instruction,,,,,,,,,,,Compatible,,
+Features - Motion General,Programmable Jerk Control,,,,,,,,,,,Compatible,,
+Features - Motion General,Programmable Jerk Extensions,,,,,,,,,,,Compatible,,
+Features - Motion General,Programmable Jerk Support for Multi-Axis Instructions,,,,,,,,,,,Compatible,,
+Features - Motion General,Single-Axis Programmable Jerk Support,,,,,,,,,,,Compatible,,
+Features - Motion SERCOS,AutoFlash for SERCOS Drives,,,,,,,,,,,Compatible,,
+Features - Motion SERCOS,Kinetix 5700 Servo Drive System,,,,,,,,,,,Compatible,,
+Features - Motion SERCOS,Kinetix 6000 Advanced Safety Drive (S1) Support,,,,,,,,,,,,,
+Features - Motion SERCOS,Kinetix 6000 Enhanced Safe Torque-off Drive (SO) Support,,,,,,,,,,,,,
+Features - Motion SERCOS,Kinetix 6000M Integrated Drive-Motor Systems,,,,,,,,,,,Compatible,,
+Features - Programming,Active Step Maintained During SFC Online Edit,,,,,,,,,,,Compatible,,
+Features - Programming,Advanced Process Control Instructions,,,,,,,,,,,Compatible,,
+Features - Programming,Enhancement to the Data Type Editor,,,,,,,,,,,Compatible,,
+Features - Programming,Enhancement to the power rails,,,,,,,,,,,Compatible,,
+Features - Programming,FactoryTalk Alarms and Events (Logix-Based Alarms),,,,,,,,,,,Compatible,Compatible,
+Features - Programming,HMI Button Control instructions,,,,,,,,,,,Compatible,Compatible,
+Features - Programming,Instruction Defaults (FBD and SFC Programming Languages),,,,,,,,,,,Compatible,,
+Features - Programming,New Program Parameters,,,,,,,,,,,Compatible,,
+Features - Programming,PhaseManager,,,,,,,,,,,Compatible,,
+Features - Programming,Produced_Consumed Tag Structures Status,,,,,,,,,,,Compatible,,
+Features - Programming,Runtime Detection of Controller Modifications,,,,,,,,,,,Compatible,,
+Features - Programming,Support for Application Code Manager,,,,,,,,,,,Compatible,,
+Features - Redundancy,ControlLogix Redundancy System Features 20_055_Kit4,,,,,,,,,,,,,
+Features - Redundancy,HMI Blind Time,,,,,,,,,,,,,
+Features - Redundancy,Hold Output State During Fault Mode,,,,,,,,,,,,,
+Features - Redundancy,Hold Output State During Program Download,,,,,,,,,,,,,
+Features - Redundancy,Hold Output State During Program Mode,,,,,,,,,,,,,
+Features - Redundancy,Hot Backup,,,,,,,,,,,,,
+Features - Redundancy,Redundancy Module Configuration Tool,,,,,,,,,,,,,
+Features - Redundancy,Redundancy Module Configuration Tool Enhancements,,,,,,,,,,,,,
+Features - Safety,EtherNetIP and ControlNet CIP Safety,,,,,,,,,,,Compatible,,
+Features - Safety,GuardLogix Controllers Support Standard ControlLogix Functions,,,,,,,,,,,Compatible,,
+Features - Safety,GuardLogix Safety Instructions,,,,,,,,,,,Compatible,,
+Features - Safety,Integrated Safety Safe Torque Off - Kinetix 5500 Drives,,,,,,,,,,,,,
+Features - Safety,Kinetix 6000 Advanced Safety Drive_S1 and Enhanced Safe Torque-off Drive_S0,,,,,,,,,,,Compatible,,
+Features - Safety,Safe and Standard Connections for Safety Supported on One Device,,,,,,,,,,,Compatible,,
+Features - Safety,Safety Add-On Instructions,,,,,,,,,,,,,
+Features - Safety,Support for Remote Safety Modules,,,,,,,,,,,Compatible,,
+Features - Security,Change Detection Audit Value,,,,,,,,,,,Compatible,,
+Features - Security,Controller Log,,,,,,,,,,,Compatible,,
+Features - Security,Data Access Control,,,,,,,,,,,Compatible,,
+Features - Security,License-Based Source Protection,,,,,,,,,,,Compatible,,
+Features - Security,Security Authority for Authentication and Authorization,,,,,,,,,,,Compatible,,
+Features - Security,Security Log-On/Log-Off,,,,,,,,,,,Compatible,,
+Features - Security,System and Device-Level Security,,,,,,,,,,,Compatible,,
+Features - Sequential Function Charts,Enhancement to Sequential Function Chart and Block Diagram Editors,,,,,,,,,,,Compatible,,
+Virtualization,Supported on VMware (KB 566423 ),,,,,,,,,,,May be Compatible,May be Compatible,
+Redundancy,V16 Enhanced Redundancy,,,,,,,,,,Not Compatible,,,
+Redundancy,V16 Standard  Redundancy,,,,,,,,,,Not Compatible,,,
+Redundancy,V19 Enhanced Redundancy,,,,,,,,,,Compatible,,,
+Redundancy,V20 Enhanced Redundancy,,,,,,,,,,Compatible,,,
+Firmware Migration,1756-EN2TR 2.x,,,,,,,,,,Not Compatible,,,
+Firmware Migration,1756-EN2TR 3.x,,,,,,,,,,Not Compatible,,,
+Firmware Migration,1756-EN2TR 4.x,,,,,,,,,,Not Compatible,,,
+Firmware Migration,1756-EN2TR 5.028,,,,,,,,,,Compatible,,,
+Firmware Migration,1756-EN2TR 5.0x,,,,,,,,,,Not Compatible,,,
+Firmware Migration,1756-IB16 1.x,,,,,,,,,Not Compatible,,,,
+Firmware Migration,1756-IB16 2.x,,,,,,,,,Not Compatible,,,,
+Firmware Migration,1756-IB16 3.x,,,,,,,,,Compatible,,,,
+Firmware Migration,1756-IB16D 1.x,,,,,,,,Not Compatible,,,,,
+Firmware Migration,1756-IB16D 2.x,,,,,,,,Not Compatible,,,,,
+Firmware Migration,1756-IB16D 3.x,,,,,,,,Compatible,,,,,
+Firmware Migration,1756-IB32/B 3.x,,,,,,,Compatible,,,,,,
+Firmware Migration,1756-OB16D 1.x,,,,,Not Compatible,,,,,,,,
+Firmware Migration,1756-OB16D 2.x,,,,,Not Compatible,,,,,,,,
+Firmware Migration,1756-OB16D 3.x,,,,,Compatible,,,,,,,,
+Firmware Migration,1756-OB16E 1.x,,,,Not Compatible,,,,,,,,,
+Firmware Migration,1756-OB16E 2.x,,,,Not Compatible,,,,,,,,,
+Firmware Migration,1756-OB16E 3.x,,,,Compatible,,,,,,,,,
+Firmware Migration,1756-OB32 1.x,,,Not Compatible,,,,,,,,,,
+Firmware Migration,1756-OB32 2.x,,,Not Compatible,,,,,,,,,,
+Firmware Migration,1756-OB32 3.x,,,Compatible,,,,,,,,,,
+Module Replacement,1756-EN2F,,,,,,,,,,Not Compatible,,,
+Module Replacement,1756-EN2T,,,,,,,,,,Not Compatible,,,
+Module Replacement,1756-EN2TR,,,,,,,,,,Compatible,,,
+Module Replacement,1756-EN2TXT,,,,,,,,,,Not Compatible,,,
+Module Replacement,1756-EN3TR,,,,,,,,,,Compatible,,,
+Module Replacement,1756-ENBT,,,,,,,,,,Not Compatible,,,
+Module Replacement,1756-EWEB,,,,,,,,,,Not Compatible,,,
+Module Replacement,1756-IB16 1.x,,,,,,,,,Not Compatible,,,,
+Module Replacement,1756-IB16 2.x,,,,,,,,,Not Compatible,,,,
+Module Replacement,1756-IB16 3.x,,,,,,,,,Compatible,,,,
+Module Replacement,1756-IB16D 1.x,,,,,,,,Not Compatible,,,,,
+Module Replacement,1756-IB16D 2.x,,,,,,,,Not Compatible,,,,,
+Module Replacement,1756-IB16D 3.x,,,,,,,,Compatible,,,,,
+Module Replacement,1756-IB32 3.x,,,,,,,Compatible,,,,,,
+Module Replacement,1756-OB16D 1.x,,,,,Not Compatible,,,,,,,,
+Module Replacement,1756-OB16D 2.x,,,,,Not Compatible,,,,,,,,
+Module Replacement,1756-OB16D 3.x,,,,,Compatible,,,,,,,,
+Module Replacement,1756-OB16E 1.x,,,,Not Compatible,,,,,,,,,
+Module Replacement,1756-OB16E 2.x,,,,Not Compatible,,,,,,,,,
+Module Replacement,1756-OB16E 3.x,,,,Compatible,,,,,,,,,
+Module Replacement,1756-OB32 1.x,,,Not Compatible,,,,,,,,,,
+Module Replacement,1756-OB32 2.x,,,Not Compatible,,,,,,,,,,
+Module Replacement,1756-OB32 3.x,,,Compatible,,,,,,,,,,
+Anomaly - General, SD Card Corrupt File System,,,,,,,,,,,,,Known Anomaly
+Anomaly - General, VxWorks Vulnerabilities That Affect 1756 ControlLogix EtherNet/IP Communication Modules,,,,,,,,,,Corrected Anomaly,,,
+Anomaly - General,@AlarmSet Values,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,1756-M02AS module has different restored position compared to ControlLogix 5570 controllers (00223534),,,,,,,,,,,,,
+Anomaly - General,5069 Compact I/O Firmware Files Not Stored to SD Card,,,,,,,,,,,,,
+Anomaly - General,Aliased Logix Designer Tags,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Anomalies for Studio 5000 Logix Designer version 32.01,,,,,,,,,,,Known Anomaly,,
+Anomaly - General,Anomalies for Studio 5000 View Designer 3.01,,,,,,,,,,,,Known Anomaly,
+Anomaly - General,Anomalies for Studio 5000 View Designer version 4.01,,,,,,,,,,,,Known Anomaly,
+Anomaly - General,Anomalies for Studio 5000 View Designer version 5.01,,,,,,,,,,,,Known Anomaly,
+Anomaly - General,Anomalies for Studio 5000 View Designer version 6.01,,,,,,,,,,,,Known Anomaly,
+Anomaly - General,Button Behavior,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Class1ConnectionCount System Tag,,,,,,,,,,,,,Corrected Anomaly
+Anomaly - General,Conflicting Error Messages,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Connected UnCached Messages Fail (00173896),,,,,,,,,,,,,
+Anomaly - General,Controller Can Experience Hung Messages,,,,,,,,,,,,,
+Anomaly - General,Controller Tag Reference,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,"Corrected anomalies for Studio 5000 Logix Designer, version 32.03.00",,,,,,,,,,,Corrected Anomaly,,
+Anomaly - General,Data Logging,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Download While Screen Saver Is Running,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Duplicate IP Address State,,,,,,,,,,Known Anomaly,,,
+Anomaly - General,Enumerated Properties,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Error When Number of Alarms is Exceeded,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Events Tab,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,GuardLogix 5580 Controller Can Experience a MNRF if Safety Partner is Removed,,,,,,,,,,,,,
+Anomaly - General,Inconsistent Synchronization Indications and Tag Communication Errors,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Internal Diagnostic Can Cause I/O Module to Fault (00204713),,Corrected Anomaly,,,,Corrected Anomaly,,,,,,,
+Anomaly - General,IP Route Table Web Page Shows the Mask in Reverse Order,,,,,,,,,,,,,
+Anomaly - General,Issues When Using ControlFlash During Screen Change,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Kinetix Drives Group Sync Timed Out,,,,,,,,,,,,,
+Anomaly - General,"Known anomalies for Studio 5000 Logix Designer, version 32.00.00",,,,,,,,,,,Known Anomaly,,
+Anomaly - General,"Known anomalies for Studio 5000 Logix Designer, version 32.02.00",,,,,,,,,,,Known Anomaly,,
+Anomaly - General,"Known anomalies for Studio 5000 Logix Designer, version 32.03.00",,,,,,,,,,,Known Anomaly,,
+Anomaly - General,Known anomalies for version 32.02,,,,,,,,,,,Known Anomaly,,
+Anomaly - General,Known issues and limitations for Studio 5000 View Designer 2.03,,,,,,,,,,,,Known Anomaly,
+Anomaly - General,Module Can Stop Updating CIP Sync System Time (00181483),,Corrected Anomaly,,,,Corrected Anomaly,,,,,,,
+Anomaly - General,MSF Instruction Clears the .DriveEnableStatus Bit after the .DN is Set,,,,,,,,,,,,,
+Anomaly - General,Network Tab Delay,,,,,,,,,,,,,Corrected Anomaly
+Anomaly - General,No Tag Values In Alarm Annunciation,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Not Valid Device Error,,,,,,,,,,Known Anomaly,,,
+Anomaly - General,Program Save Takes Longer Than Expected (00164549),,,,,,,,,,,,,
+Anomaly - General,Read Fails Tag Does Not Exist or External Access Property Set to None,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Remote ControlLogix I/O Modules Unavailable After Ethernet Cable Break is Corrected (00228289),,Corrected Anomaly,,,,Corrected Anomaly,,,,,,,
+Anomaly - General,Repeated Disconnect and Reconnect,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Screen Errors When Exceeding Recommended Alarm Limits,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,ShelveDuration and MaxShelveDuration Values,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Source Loop Current Configuration Affects Other Channels,,,,,,Known Anomaly,,,,,,,
+Anomaly - General,State Enter Event Does Not Trigger,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,State Enter Events,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Synch and Communication Errors,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Syntax Error,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Tag Values Stop Updating and Display an Error,,,,,,,,,,,,,Corrected Anomaly
+Anomaly - General,Tertiary DNS Configuration,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Traces Not Appearing,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Trend Chart,,,,,,,,,,,,,Known Anomaly
+Anomaly - General,Unable to establish connection to 32 client instances of the TCP/IP SocketObject,,,,,,,,,,,,,
+Anomaly - General,Value That Is Outside the Supported WallClockTime Range,,,,,,,,,,,,,
+Anomaly - Add On Instructions,Changing Data Context for AOI does not change metadata context (Lgx00185356),,,,,,,,,,,Known Anomaly,,
+Anomaly - Motion General,"Import, Accessing Motion Module",,,,,,,,,,,Known Anomaly,,
+Anomaly - Programming,"IOT instruction may decompile incorrectly (Lgx00176073, Lgx00188026, Lgx00188027, Lgx00188028)",,,,,,,,,,,Known Anomaly,,
+Anomaly - Redundancy,Explicit Protected Mode on 1756 ControlLogix EtherNet/IP Modules with ControlLogix Redundancy,,,,,,,,,,Corrected Anomaly,,,
+Anomaly - Redundancy,"Tracked State value for redundant controller may not be correct after a switchover (Lgx00189950, Lgx00190153)",,,,,,,,,,,Known Anomaly,,
+Anomaly - Security,Error when using Import to overwrite an existing locked component (Lgx00190571),,,,,,,,,,,Known Anomaly,,
+Anomaly - Security,"When FactoryTalk Security Modify Logic access is denied, FBD properties are sometimes inaccessible (Lgx00184895)",,,,,,,,,,,Known Anomaly,,
+Functional Changes - General,Alarm Limits,,,,,,,,,,,,,Compatible
+Functional Changes - General,ControlLogix I/O Modules Can Assert (00224868),,Compatible,,,,Compatible,,,,,,,
+Functional Changes - General,Dual Gateway,,,,,,,,,,Compatible,,,
+Functional Changes - General,Email Object and EtherNet_IP Socket Object,,,,,,,,,,Compatible,,,
+Functional Changes - General,Exact Match Keying and Firmware Supervisor,,,,,,,,,,Compatible,,,
+Functional Changes - General,Functional changes for Studio 5000 Logix Designer version 32.01,,,,,,,,,,,Compatible,,
+Functional Changes - General,"Functional changes for Studio 5000 Logix Designer, version 32.00.00",,,,,,,,,,,Compatible,,
+Functional Changes - General,"Functional changes for Studio 5000 Logix Designer, version 32.02.00",,,,,,,,,,,Compatible,,
+Functional Changes - General,"Functional changes for Studio 5000 Logix Designer, version 32.03.00",,,,,,,,,,,Compatible,,
+Functional Changes - General,Functional Changes for Studio 5000 View Designer 3.01,,,,,,,,,,,,Compatible,
+Functional Changes - General,Functional changes for Studio 5000 View Designer version 4.01,,,,,,,,,,,,Compatible,
+Functional Changes - General,Functional changes for Studio 5000 View Designer version 5.01,,,,,,,,,,,,Compatible,
+Functional Changes - General,Functional changes for Studio 5000 View Designer version 6.01,,,,,,,,,,,,Compatible,
+Functional Changes - General,Functional changes for version 32.02,,,,,,,,,,,Compatible,,
+Functional Changes - General,New in this release for Studio 5000 View Designer 2.03,,,,,,,,,,,,Compatible,
+Functional Changes - General,Out-of-box Switch (888) Behavior Change,,,,,,,,,,Compatible,,,
+Functional Changes - General,RSLogix 5000 Software Support,,,,,,,,,,Compatible,,,
+Functional Changes - General,Source and Target Transform Dimensions Must Be Equal in MCT/MCTP Instructions,,,,,,,,,,,,,
+Functional Changes - General,System Features for Studio 5000 View Designer 3.01,,,,,,,,,,,,Compatible,
+Functional Changes - General,View Designer overview,,,,,,,,,,,,Compatible,
+Functional Changes - General,Watchdog Attribute for Motion Group Removed,,,,,,,,,,,,,
+Functional Changes - Alarms and Events,Alarm Grid Display Mode Added to Tag Monitor,,,,,,,,,,,Compatible,,
+Functional Changes - CIP Sync,"CIP Sync, Check for Time Synchronization Mastership",,,,,,,,,,,Compatible,,
+Functional Changes - Communications EtherNetIP Network,EtherNet/IP Reduced Heartbeat,,,,,,,,,,,Compatible,,
+Functional Changes - Communications EtherNetIP Network,Generic Ethernet Module Extensions,,,,,,,,,,,Compatible,,
+Functional Changes - Communications General,"Hart Communications, Configuration Profiles Calibration",,,,,,,,,,,Compatible,,
+Functional Changes - Communications General,HMI Connectivity Performance Improvements,,,,,,,,,,,Compatible,,
+Functional Changes - Communications General,"Overhead Time Slice, Forced Usage",,,,,,,,,,,Compatible,,
+Functional Changes - Communications General,Produce/Consume Tag Structure Status,,,,,,,,,,,Compatible,,
+Functional Changes - Communications General,RSNetWorx Access Directly From the Controller Organizer,,,,,,,,,,,Compatible,,
+Functional Changes - Firmware Management,AutoFlash for SERCOS Drives,,,,,,,,,,,Compatible,,
+Functional Changes - Firmware Management,AutoFlash User Interface Prompting,,,,,,,,,,,Compatible,,
+Functional Changes - Firmware Management,Scripting Available for the ControlFLASH tool,,,,,,,,,,,Compatible,,
+Functional Changes - Function Block,Ability to Display Values on Input Pins,,,,,,,,,,,Compatible,,
+Functional Changes - Function Block,Delete Tags When Instruction Deleted,,,,,,,,,,,Compatible,,
+Functional Changes - Function Block,FBD Ability to Rename Input Wire & Output Wire Connectors,,,,,,,,,,,Compatible,,
+Functional Changes - Function Block,FBD Input and Output References Show Base Tag Name,,,,,,,,,,,Compatible,,
+Functional Changes - Function Block,FBD Keyboard Shortcuts Added,,,,,,,,,,,Compatible,,
+Functional Changes - Function Block,Increased Sheet Size,,,,,,,,,,,Compatible,,
+Functional Changes - Function Block,Option to Hide Tag Comments,,,,,,,,,,,Compatible,,
+Functional Changes - Function Block,Special Array Dialog Tab,,,,,,,,,,,Compatible,,
+Functional Changes - Import Export,"Case Change, Tag Name via CSV Import",,,,,,,,,,,Compatible,,
+Functional Changes - Import Export,Importing a UDT with an updated member list,,,,,,,,,,,Compatible,,
+Functional Changes - Import Export,"UDT, Data Preservation after Modified Partial Import",,,,,,,,,,,Compatible,,
+Functional Changes - Ladder Logic,Tag Name Wrapping in Ladder Editor,,,,,,,,,,,Compatible,,
+Functional Changes - Motion Analog,"M02AS_HYD02, Loss of Feedback Detection",,,,,,,,,,,Compatible,,
+Functional Changes - Motion General,Custom Motor Conversion Tool,,,,,,,,,,,Compatible,,
+Functional Changes - Motion General,"Delay Compensation, GSV/SSV Access",,,,,,,,,,,Compatible,,
+Functional Changes - Motion General,"Drive Resolution, GSV Access to Axis ",,,,,,,,,,,Compatible,,
+Functional Changes - Motion General,"MAOC Instruction, Extended Error Codes ",,,,,,,,,,,Compatible,,
+Functional Changes - Motion General,Motion Axis Output Cam Expansion,,,,,,,,,,,Compatible,,
+Functional Changes - Motion General,Motion Planner Enhancements,,,,,,,,,,,Compatible,,
+Functional Changes - Motion General,"Power Loss, Configurable Fault Action",,,,,,,,,,,Compatible,,
+Functional Changes - Motion General,S-Curve Stop Adjust via Dynamics Config Bits,,,,,,,,,,,Compatible,,
+Functional Changes - Motion General,"Safe Off Mode, Active Status Axis Tags",,,,,,,,,,,Compatible,,
+Functional Changes - Motion General,Soft Overtravel Recovery Changes,,,,,,,,,,,Compatible,,
+Functional Changes - Programming,Behavior changes in ControlLogix 5570 controllers,,,,,,,,,,,Compatible,,
+Functional Changes - Programming,"Destructive Bit, Duplicate Detection Default Setting",,,,,,,,,,,Compatible,,
+Functional Changes - Programming,Equipment Phase Monitoring Enhancements,,,,,,,,,,,Compatible,,
+Functional Changes - Programming,Ladder Diagram Parameter Display Optimization Options,,,,,,,,,,,Compatible,,
+Functional Changes - Programming,Logic Display Kept Centered When Zooming,,,,,,,,,,,Compatible,,
+Functional Changes - Programming,"Project Names, GSV Access ",,,,,,,,,,,Compatible,,
+Functional Changes - Programming,Resizable Horizontal Scroll Bar in Language Editors,,,,,,,,,,,Compatible,,
+Functional Changes - Programming,Routine Type Selection During Creation,,,,,,,,,,,Compatible,,
+Functional Changes - Programming,Shorted Branch Warning and Search Option,,,,,,,,,,,Compatible,,
+Functional Changes - Programming,V24 Additional Memory Requirements for Logix5000 Controllers,,,,,,,,,,,Compatible,,
+Functional Changes - Redundancy,Redundancy Bundle Support,,,,,,,,,,Compatible,,,
+Functional Changes - Safety,"CIP Sync, Safety Communication Support",,,,,,,,,,,Compatible,,
+Functional Changes - Safety,"Signature, Reading via GSV Instruction",,,,,,,,,,,Compatible,,
+Functional Changes - Security,"Add-On Instructions, Granular Security Actions",,,,,,,,,,,Compatible,,
+Functional Changes - Security,"GuardLogix, Granular Security Actions for Safety Components ",,,,,,,,,,,Compatible,,
+Functional Changes - Security,Safety Signature Deletion in Run Mode Protection,,,,,,,,,,,Compatible,,
+Functional Changes - Security,Source Protected Routines in .L5K Export File,,,,,,,,,,,Compatible,,
+Functional Changes - Security,Source Protection Key Enhancements,,,,,,,,,,,Compatible,,
+Functional Changes - Sequential Function Charts,Array Faults Suppressed During Postscan of SFC Actions,,,,,,,,,,,Compatible,,
+Functional Changes - Sequential Function Charts,Overview Visible by Routine,,,,,,,,,,,Compatible,,
+Functional Changes - Sequential Function Charts,Paused State Read via GSV Instruction,,,,,,,,,,,Compatible,,
+Functional Changes - Sequential Function Charts,SFR Instruction Filters Types and Step Names,,,,,,,,,,,Compatible,,
+Functional Changes - Sequential Function Charts,"Step Timer ACC, Pause Management",,,,,,,,,,,Compatible,,
+Functional Changes - Sequential Function Charts,"Tag Indicator, Force Status ",,,,,,,,,,,Compatible,,
+Functional Changes - Structured Text,Horizontal Bar in ST Editor,,,,,,,,,,,Compatible,,
+Requirements,Compatible Software for Controller Firmware Revision 29,,,,,,,,,,,,,
+Requirements,Compatible Software for Controller Firmware Revision 30.011,,,,,,,,,,,,,
+Requirements,Compatible Software for Controller Firmware Revision 31.011,,,,,,,,,,,,,
+Requirements,Compatible Software for Controller Firmware Revision 32.011,,,,,,,,,,,,,
+Requirements,Compatible Software for Controller Firmware Revision 32.013,,,,,,,,,,,,,
+Requirements,"PanelView 5510, and PanelView 5310 Firmware Revision 5.001 Compatibility",,,,,,,,,,,,,Compatible
+Requirements,"PanelView 5510, and PanelView 5310 Firmware Revision 5.002 Compatibility",,,,,,,,,,,,,Compatible
+Requirements,"PanelView 5510, and PanelView 5310 Firmware Revision 6.001 Compatibility",,,,,,,,,,,,,Compatible
+Requirements,Security considerations,,,,,,,,,,,,Compatible,
+Requirements,Security considerations for Studio 5000 View Designer 2.03,,,,,,,,,,,,Compatible,
+Requirements,"Studio 5000 system components, version 32.02.00",,,,,,,,,,,Compatible,,
+Requirements,System requirements for Studio 5000 Logix Designer version 32.01,,,,,,,,,,,Compatible,,
+Requirements,"System requirements for Studio 5000 Logix Designer, version 32.00.00",,,,,,,,,,,Compatible,,
+Requirements,"System requirements for Studio 5000 Logix Designer, version 32.02.00",,,,,,,,,,,Compatible,,
+Requirements,"System requirements for Studio 5000 Logix Designer, version 32.03.00",,,,,,,,,,,Compatible,,
+Requirements,System requirements for Studio 5000 View Designer 2.03,,,,,,,,,,,,Compatible,
+Requirements,System Requirements for Studio 5000 View Designer 3.01,,,,,,,,,,,,Compatible,
+Requirements,System requirements for Studio 5000 View Designer version 4.01,,,,,,,,,,,,Compatible,
+Requirements,System requirements for Studio 5000 View Designer version 5.01,,,,,,,,,,,,Compatible,
+Requirements,System requirements for Studio 5000 View Designer version 6.01,,,,,,,,,,,,Compatible,
+Requirements,System requirements for version 32.02,,,,,,,,,,,Compatible,,
+Requirements,System Requirements Limits for Studio 5000 View Designer 2.02,,,,,,,,,,,,Compatible,
+Requirements,System Requirements Security considerations for Studio 5000 View Designer 2.02,,,,,,,,,,,,Compatible,
+Application Notes,Add-on Profile Not Available,,,,,,,,,,Compatible,,,
+Application Notes,Application notes for Studio 5000 Logix Designer version 32.01,,,,,,,,,,,Compatible,,
+Application Notes,"Application notes for Studio 5000 Logix Designer, version 32.02.00",,,,,,,,,,,Compatible,,
+Application Notes,"Application notes for Studio 5000 Logix Designer, version 32.03.00",,,,,,,,,,,Compatible,,
+Application Notes,Application Notes for Studio 5000 View Designer 3.01,,,,,,,,,,,,Compatible,
+Application Notes,Application notes for Studio 5000 View Designer version 4.01,,,,,,,,,,,,Compatible,
+Application Notes,Application notes for Studio 5000 View Designer version 5.01,,,,,,,,,,,,Compatible,
+Application Notes,Application notes for Studio 5000 View Designer version 6.01,,,,,,,,,,,,Compatible,
+Application Notes,Application notes for version 32.02,,,,,,,,,,,Compatible,,
+Application Notes,Application Notes Legal Notices for Studio 5000 View Designer 2.02,,,,,,,,,,,,Compatible,
+Application Notes,Download Can Fail (00160311),,,,,,,,,,,,,
+Application Notes,Firmware Compatibility,,,Compatible,Compatible,Compatible,,Compatible,Compatible,Compatible,,,,
+Application Notes,Firmware Upgrade Guidelines for Safety Controllers,,,,,,,,,,,,,
+Application Notes,I/O Connection,,,,,,,,,,,,,Compatible
+Application Notes,Legal Notices for Studio 5000 View Designer 2.03,,,,,,,,,,,,Compatible,
+Application Notes,Legal Notices for Studio 5000 View Designer version 4.01,,,,,,,,,,,,Compatible,
+Application Notes,Legal Notices for Studio 5000 View Designer version 5.01,,,,,,,,,,,,Compatible,
+Application Notes,Limits,,,,,,,,,,,,Compatible,
+Application Notes,Project Limits,,,,,,,,,,,,,Compatible
+Application Notes,Project Limits 6.001,,,,,,,,,,,,,Compatible
+Application Notes,Web Page Layout,,,,,,,,,,Compatible,,,
+Product Updates and Replacements,How Logix Ethernet Modules Handle Leading Zeroes in IP Addresses,,,,,,,,,,Compatible,,,
+Product Updates and Replacements,Migrating 6-channel to 8-channel 1756 Analog Modules,,Direct Replacement,,,,Direct Replacement,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"Reference Bookmark: https://compatibility.rockwellautomation.com/Pages/MultiProductCompareSelections.aspx?versions=58640,59365,4218,51549,4212,59422,4189,57148,57149,58538,59489,58455,58468&route=1",,,,,,,,,,,,,,
