@@ -41,6 +41,7 @@ def print_dictionary(my_dictionary, print_string):
         print() # prints newline
 
 def simple_compatability_score(my_category):
+    score = 1
     incompatabilities_number = 0
     compatabilities_number = 0
     total_possible = 0
@@ -49,7 +50,9 @@ def simple_compatability_score(my_category):
     for each in my_category.types['compatabilities']:
         compatabilities_number += len(my_category.types['compatabilities'][each])
     total_possible = incompatabilities_number + compatabilities_number
-    score = compatabilities_number / total_possible
+    
+    if total_possible != 0:
+        score = compatabilities_number / total_possible
     return score
 
 def populate_dictionary(my_category, item, col_names, col_num, row_name):
