@@ -75,8 +75,8 @@ def create_layout(app):
                                     html.H6(
                                         ["Overview 1"], className="subtitle padded"
                                     ),
-                                    #html.Table(make_dash_table(export_simple_system)),
-                                ],
+                                    df=pd.read_csv('data/.csv')
+                                    df.head()],
                                 className="six columns",
                             ),
                             html.Div(
