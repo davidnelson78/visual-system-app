@@ -3,7 +3,6 @@ import dash_html_components as html
 import plotly.graph_objs as go
 
 from utils import Header, make_dash_table
-
 import pandas as pd
 import pathlib
 
@@ -112,7 +111,7 @@ def create_layout(app):
                                                             "width": 2,
                                                         },
                                                     },
-                                                    name="Calibre Index Fund",
+                                                    name="",
                                                 ),
                                                 go.Bar(
                                                     x=[
@@ -135,7 +134,7 @@ def create_layout(app):
                                                             "width": 2,
                                                         },
                                                     },
-                                                    name="S&P 500 Index",
+                                                    name="",
                                                 ),
                                             ],
                                             "layout": go.Layout(
@@ -228,7 +227,7 @@ def create_layout(app):
                                                     ],
                                                     line={"color": "#97151c"},
                                                     mode="lines",
-                                                    name="Calibre Index Fund Inv",
+                                                    name="",
                                                 )
                                             ],
                                             "layout": go.Layout(

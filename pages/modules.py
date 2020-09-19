@@ -7,9 +7,7 @@ import pathlib
 PATH = pathlib.Path(__file__).parent
 DATA_PATH = PATH.joinpath("../data").resolve()
 
-df_dividend = pd.read_csv(DATA_PATH.joinpath("df_dividend.csv"))
-df_realized = pd.read_csv(DATA_PATH.joinpath("df_realized.csv"))
-df_unrealized = pd.read_csv(DATA_PATH.joinpath("df_unrealized.csv"))
+
 
 
 def create_layout(app):
@@ -32,8 +30,6 @@ def create_layout(app):
                                     html.Div(
                                         [
                                             html.Table(
-                                                make_dash_table(df_dividend),
-                                                className="tiny-header",
                                             )
                                         ],
                                         style={"overflow-x": "auto"},
@@ -63,12 +59,8 @@ def create_layout(app):
                     html.Div(
                         [
                             html.Div(
-                                [html.Table(make_dash_table(df_realized))],
-                                className="six columns",
                             ),
                             html.Div(
-                                [html.Table(make_dash_table(df_unrealized))],
-                                className="six columns",
                             ),
                         ],
                         className="row ",
